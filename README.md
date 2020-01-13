@@ -1,4 +1,4 @@
-# multithreaded-rsa-encryption
+# Multithreaded RSA Encryption
 A multithreaded RSA file encryptor that uses fast mod exponentiation and EEA
 
 To run the program, type in the command:
